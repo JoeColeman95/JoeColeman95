@@ -8,12 +8,12 @@
 
 ```bash
 Cloud: AWS, Azure
-CI/CD: Jenkins, CodeDeploy
+CI/CD: Jenkins, CodeDeploy, Concourse
 Containers: Docker, Kubernetes, ECS
 IaC: Terraform, Ansible, CloudFormation
 Scripting: Bash, Python, PowerShell
 Monitoring: CloudWatch, NewRelic
-Databases: MySQL, TSQL
+Databases: MySQL, TSQL, NoSQL
 ```
 
 ### 📬 Let's Connect!
