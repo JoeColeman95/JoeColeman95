@@ -1,21 +1,18 @@
-# Hello there, I'm Joe 🧑‍🦰
-
-### 💼 Where I'm Working 
-[RedCloud](https://www.linkedin.com/company/redcloud-technologies-ltd/mycompany/)
-
+# Welcome to my GitHub profile!
+My name is Joe, I am from the Wirral, UK. I am working as a DevOps Engineer for [RedCloud](https://www.linkedin.com/company/redcloud-technologies-ltd/mycompany/).
 
 ## 🧰 Technologies & Tools
 
 ```bash
-Cloud: AWS, Azure
-CI/CD: Jenkins, CodeDeploy, Concourse
-Containers: Docker, Kubernetes, ECS
-IaC: Terraform, Ansible, CloudFormation
-Scripting: Bash, Python, PowerShell
-Monitoring: CloudWatch, NewRelic
-Databases: MySQL, TSQL, NoSQL
+Databases and Data Stores: SQL, MySQL, Redis, Elasticsearch, Apache Kafka
+Cloud Services: AWS, Azure
+CI/CD Tools: Jenkins, GitHub Actions, Concourse
+Infrastructure as Code (Iac): Terraform, Ansible, CloudFormation
+Programming: Bash, PowerShell, PHP, Java
+Containerization & Orchestration: Docker, Lambda, Kubernetes, ECS, GitOps
+Other Skills: Networking (High-Scale), IAM, Agile, NewRelic, CloudWatch
 ```
 
-### 📬 Let's Connect!
+You can reach me on LinkedIn following the below link:
 
 - **LinkedIn**: [Joseph Coleman](https://www.linkedin.com/in/joseph-coleman-073541233/)
