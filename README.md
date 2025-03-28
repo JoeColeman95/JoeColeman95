@@ -1,9 +1,9 @@
-# Welcome to my GitHub profile!
-My name is Joe, I am from the Wirral, UK. I am working as a DevOps Engineer for [RedCloud](https://www.linkedin.com/company/redcloud-technologies-ltd/mycompany/).
+# Hellllllooooo
+I'm Joe and I am from the Wirral in the UK. I am working as a DevOps Engineer for [RedCloud](https://www.linkedin.com/company/redcloud-technologies-ltd/mycompany/).
 
-## 🧰 Technologies & Tools
 
-```bash
+I work with (but I am not limited to) the below tech stack:
+```text
 Databases and Data Stores: SQL, MySQL, Redis, Elasticsearch, Apache Kafka
 Cloud Services: AWS, Azure
 CI/CD Tools: Jenkins, GitHub Actions, Concourse
