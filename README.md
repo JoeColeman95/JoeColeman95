@@ -9,7 +9,7 @@ Cloud Services: AWS, Azure
 CI/CD Tools: Jenkins, GitHub Actions, Concourse
 Infrastructure as Code (Iac): Terraform, Ansible, CloudFormation
 Programming: Bash, PowerShell, PHP, Java
-Containerization & Orchestration: Docker, Lambda, Kubernetes, ECS, GitOps
+Containerization & Orchestration: Docker, Lambda, ECS, GitOps
 Other Skills: Networking (High-Scale), IAM, Agile, NewRelic, CloudWatch
 ```
 
